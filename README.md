@@ -21,8 +21,8 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL:(https://your-live-site-url.com)
+- Solution URL: (https://github.com/ShubhangiMishra215/React-pixabay-app.git)
+- Live Site URL:(https://react-pixabay-app.vercel.app)
 
 ## My process
 
