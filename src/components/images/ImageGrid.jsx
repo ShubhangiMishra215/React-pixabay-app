@@ -1,5 +1,5 @@
 import React from 'react'
-import ImageCard from './imageCard';
+import ImageCard from './ImageCard';
 
 const ImageGrid = ({images, onToggleFavourite, isFavouriteCheck}) => {
 
